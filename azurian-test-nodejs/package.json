@@ -1,0 +1,17 @@
+{
+  "name": "azurian-test",
+  "version": "1.0.0",
+  "description": "azurian test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "cristhian arrieta",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5"
+  }
+}
